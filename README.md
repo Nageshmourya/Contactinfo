@@ -32,6 +32,4 @@ This repository contains code to implement a simple contact form with form valid
 ## Security Considerations
 - Implement proper input validation and sanitization to prevent SQL injection and other security vulnerabilities.
 - Protect sensitive information such as database credentials by using environment variables.
-- Use SSL to encrypt data transmitted between the user's browser and your server.
-## Credits
-This project was created by [Your Name]. Feel free to reach out to me at [your@email.com] for any questions or suggestions.
+- Use SSL to encrypt data transmitted between the user's browser and your set.
